@@ -1,5 +1,5 @@
 In VS Code, press Ctrl+Shift+V to preview this README.md file or Cmd+Shift+V on a Mac.
-# 6303-assignment-python-chapter12-starter
+# 6303-assignment-project-3b
 
 The instructions for this assignment can be found at   
 (https://docs.google.com/document/d/1-Kxft0KGrlh6454VQ51-5oK9-hTFrZyuzAPov3rZQBE/edit)
